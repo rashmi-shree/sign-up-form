@@ -63,7 +63,7 @@ html{
     position: absolute;
     top: 0;
     left: 0;
-    z-index: 100;
+    z-index: 10;
     transition: left 1.5s cubic-bezier(0.19,1,0.22,1);
 }
 .container.change .green-bg{
